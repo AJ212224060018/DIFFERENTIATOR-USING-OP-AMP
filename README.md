@@ -63,5 +63,5 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 ![WhatsApp Image 2025-10-18 at 22 19 17_d610bbd5](https://github.com/user-attachments/assets/70d77ab7-d2dd-4f30-b7a1-c9fe09db9fc3)
 
 ## RESULT:
-Thus the Differentiator is degsined and theie performance is tested using Op-Amp.
+Thus the Differentiator is designed and theie performance is tested using Op-Amp.
 
