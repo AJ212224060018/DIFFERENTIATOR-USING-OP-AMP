@@ -51,9 +51,18 @@ DIFFERENTIATOR
 
 TABULATION:
 
+![WhatsApp Image 2025-10-18 at 22 19 18_b5f1d336](https://github.com/user-attachments/assets/9c3768cd-a6d6-4e8f-a992-e1e2bda1925a)
+
 
 GRAPH:
+(i) SINE WAVE INPUT
 
+![WhatsApp Image 2025-10-18 at 22 19 17_379c469f](https://github.com/user-attachments/assets/37d0f1ea-851b-46dd-8c32-ed1eb752174f)
+
+(ii) SQUARE WAVE INPUT
+
+![WhatsApp Image 2025-10-18 at 22 19 17_d610bbd5](https://github.com/user-attachments/assets/70d77ab7-d2dd-4f30-b7a1-c9fe09db9fc3)
 
 RESULT:
-
+Thus the Differentiator is degsined and theie performance is tested using Op-Amp.
+Thus the Differentiator is degsined and theie performance is tested using Op-Amp.
